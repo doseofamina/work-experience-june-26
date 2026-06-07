@@ -11,5 +11,6 @@ If you are unable to clone, click on 'Download Zip' in the Code dropdown.
 
 ## Pre-requisites
 VS Code: https://code.visualstudio.com/download
+
 uv (Virtual environment manager): https://docs.astral.sh/uv/getting-started/installation/
 
